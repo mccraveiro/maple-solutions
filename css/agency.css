@@ -881,3 +881,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.link, .link:hover {
+    color: #000000;
+    text-decoration: none;
+}
